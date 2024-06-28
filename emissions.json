@@ -1,0 +1,5 @@
+[
+    { "id": 1, "country": "USA", "company": "Company A", "emissions": 1000 },
+    { "id": 2, "country": "Germany", "company": "Company B", "emissions": 900 },
+    { "id": 3, "country": "China", "company": "Company C", "emissions": 1100 }
+]
